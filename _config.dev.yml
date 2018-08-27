@@ -1,0 +1,15 @@
+title: '[Dev] Plastic Lounge'
+url: http://localhost:4000
+
+# Configuration for hexo-all-minifier
+html_minifier:
+  enable: false
+
+css_minifier:
+  enable: false
+
+js_minifier:
+  enable: false
+
+image_minifier:
+  enable: false
