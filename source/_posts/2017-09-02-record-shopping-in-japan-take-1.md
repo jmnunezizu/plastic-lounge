@@ -2,6 +2,7 @@
 title: 'Record Shopping In Japan Take #1'
 date: 2017-09-02 19:52:48
 featured_image: 00790011-cover.jpg
+thumbnail: small_00790011-cover.jpg
 categories:
   - Record Shops
 tags:

@@ -106,3 +106,14 @@ js_minifier:
 
 image_minifier:
   enable: false
+
+responsive_images:
+  pattern: '**/*.+(png|jpg|jpeg)'
+  sizes:
+    small:
+      width: 800
+    medium:
+      width: 1200
+    large:
+      width: 2000
+
